@@ -1,4 +1,4 @@
-# StatsAPI
+# StatsAPI (IN DEV !)
 
 Minecraft plugin based on PocketMine-Mp software !
 This plugin allows you to have all the statistics of a player, you can use it as API
