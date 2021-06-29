@@ -34,8 +34,6 @@ version list : [click to view](https://github.com/Refaltor77/statsAPI/tags)
 
 [contributors](https://github.com/Refaltor77/statsAPI/contributors) to see who helped with the project !
 
-_(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``)_
-
 ## License
 
 This project is under license [LICENSE.md](LICENSE.md) 
